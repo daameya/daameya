@@ -34,8 +34,8 @@
 - [Cab Portfolio Analysis for Investment firm](https://github.com/daameya/Cab-Portfolio-Analysis-for-Investment-firm)
 <ol>Python | Jupyter Notebook</ol>
 
-- [Breast Cancer Classification](https://github.com/daameya/Breast-Cancer-Classification-KNIME)
-<ol>KNIME</ol>
+- [ELT Data Pipeline](https://github.com/daameya/ELT_DataPipeline)
+<ol>Docker | Python | PostgreSQL | CRON | </ol>
 
 ## Continuous Learning
 Currently enhancing my skills in Big Data Technologies and exploring Artificial Intelligence applications in Data Engineering.
