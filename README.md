@@ -13,7 +13,7 @@
 <ol>📖 Bachelor’s degree in Statistics</ol>
 <ol>📊 Master’s in Data Science and Advanced Computing</ol>
 
-🔍 As a Data Analyst and Data Engineer, I specialize in turning complex data into insights and crafting seamless data solutions. Expert in Python, SQL, , Azure, Machine Learning and Power BI, I create robust data pipelines and develop insightful dashboards that drive progress and efficiency.
+🔍 As a Data Science Graduate, I specialize in turning complex data into insights and crafting seamless data science solutions. Expert in Python, SQL, , Azure, Machine Learning and Power BI, I create robust data pipelines and develop insightful dashboards that drive progress and efficiency.
 
 ## What I Do ✏️
 - 📉 **Data Modeling and Data Pipeline**: Data modeling, ETL processes, and building scalable data pipelines to extract, transform and load data from diverse sources.
