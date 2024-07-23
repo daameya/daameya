@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameyadamleuk@gmail.com)
 
 <p align="center">
-  <img src="Ameya Damle.png" width=100% >
+  <img src="Ameya_Damle.png" width=100% >
 </p>
 
 ## About Me
