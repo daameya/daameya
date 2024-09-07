@@ -8,7 +8,7 @@
 
 ## About Me
 
-[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://drive.google.com/file/d/1NuWF8ZCrWf1P9wOteS7CmTJSvlb8ZsXR/view?usp=sharing) [![Cover Letter](https://img.shields.io/badge/Cover%20Letter-Download-brightgreen)](https://drive.google.com/file/d/1FRdJYwNP9m_7SmrE-XZMa0FLsJ8geIrJ/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue)]() [![Cover Letter](https://img.shields.io/badge/Cover%20Letter-Download-brightgreen)]()
 
 <ol>📖 Bachelor’s degree in Statistics</ol>
 <ol>📊 Master’s in Data Science and Advanced Computing</ol>
