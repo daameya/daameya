@@ -48,3 +48,8 @@ Email: ameyadamleuk@gmail.com
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameyadamleuk@gmail.com)
 
 Looking forward to collaborating on innovative data engineering projects!
+
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=daameya&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=daameya&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=daameya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
