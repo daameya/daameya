@@ -10,7 +10,7 @@
 
 ## 😊 About Me
 
-[![Resume](https://img.shields.io/badge/Resume-Download-blue)]() [![Cover Letter](https://img.shields.io/badge/Cover%20Letter-Download-brightgreen)]() <img align="right" height="150" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=790b7611zi4yjtebbvah44t6kp24d26ewwr2su6zgclmjerd&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://drive.google.com/file/d/1NuWF8ZCrWf1P9wOteS7CmTJSvlb8ZsXR/view?usp=drive_link) [![Cover Letter](https://img.shields.io/badge/Cover%20Letter-Download-brightgreen)](https://drive.google.com/file/d/1hQCan1x7viM7lcOF3nvxYiN-s2A2904h/view?usp=drive_link) <img align="right" height="150" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=790b7611zi4yjtebbvah44t6kp24d26ewwr2su6zgclmjerd&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 <ol>📖 Bachelor’s degree in Statistics</ol>
 <ol>📊 Master’s in Data Science and Advanced Computing</ol>
