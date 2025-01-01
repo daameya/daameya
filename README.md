@@ -15,7 +15,7 @@
 <ol>📖 Bachelor’s degree in Statistics</ol>
 <ol>📊 Master’s in Data Science and Advanced Computing</ol>
 
-🔍 As a Data Science Graduate, I specialize in turning complex data into insights and crafting seamless data science solutions. Expert in Python, SQL, , Azure, Machine Learning and Power BI, I create robust data pipelines and develop insightful dashboards that drive progress and efficiency.
+Data Scientist with hands-on experience in diverse actuarial data science projects, like ratemaking using GLM, GLMM, neural network for modeling claim frequency and severity, Pricing Insurance products using Telematics Data, Spatial Smoothing, Predicting Customer Lapse and Retention and Reserving. Proficient in various data analysis techniques, particularly specializing in SAS, SQL and BI dashboards. Passionate about exploring and discussing the realms of data science and artificial intelligence.
 
 ## 💻 My Projects:
 ![](https://github-contributor-stats.vercel.app/api?username=daameya&limit=5&theme=radical&combine_all_yearly_contributions=true)
