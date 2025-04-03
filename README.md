@@ -21,9 +21,14 @@ Data Scientist and Engineer with experience in designing and optimizing insuranc
 ![](https://github-contributor-stats.vercel.app/api?username=daameya&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ## 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=daameya&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=daameya&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daameya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## Snake
+
+<img src="https://raw.githubusercontent.com/daameya/daameya/output/snake.svg" alt="Snake animation" />
 
 ### Stats
 
@@ -35,13 +40,20 @@ Data Scientist and Engineer with experience in designing and optimizing insuranc
   <img alt="GitHub Snake Light" src="https://github.com/daameya/daameya/raw/snake/github-contribution-grid-snake.svg#gh-light-mode-only" />
 </a>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=daameya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=daameya&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 ### Packages I created
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=daameya&repo=Shoes-Brand-Classification)](https://github.com/daameya/Shoes-Brand-Classification)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=daameya&repo=Sentinel-2-Satellite-Image-Classification)](https://github.com/daameya/Sentinel-2-Satellite-Image-Classification)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=daameya&repo=Gen-AI-Medical-Chatbot)](https://github.com/daameya/Gen-AI-Medical-Chatbot)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=daameya&repo=Geospatial-Data-Validator)](https://github.com/daameya/Geospatial-Data-Validator)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=daameya&repo=Traffic-Monitoring-using-IoT-Data)](https://github.com/daameya/Traffic-Monitoring-using-IoT-Data)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=daameya&repo=Realtime-Voting-System)](https://github.com/daameya/Realtime-Voting-System)
 
-## 💼 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daameya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daameya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
