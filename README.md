@@ -18,23 +18,20 @@
 
 Data Scientist and Engineer with experience in designing and optimizing insurance data science projects, like ratemaking using GLM, neural network for modelling claim frequency and severity, pricing insurance products using telematics data, geospatial data pipelines, spatial analytics, and enterprise-level data solutions. Proven ability to integrate geospatial intelligence into insurance risk modelling, catastrophe analysis, and exposure assessment. Adept in Python, R, QGIS, SAS and cloud computing, delivering efficient and scalable data science solutions. Passionate about leveraging spatial data for risk mitigation, pricing optimization, and strategic decision-making in the insurance industry.
 
+- Connect with me on:
+  - :office: [LinkedIn](https://www.linkedin.com/in/ameya-damle/)
+  - :speech_balloon: [Twitter](https://x.com/ameya98)
+- 📫 Learn more about me on:
+  - :pencil2: [Portfolio](https://kaleidoscopic-bublanina-4d3622.netlify.app/)
+  - :bulb: [Medium](https://medium.com/@1998ameya)
+
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=daameya&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=daameya&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=daameya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### Stats
-
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=daameya&count_private=true&show_icons=true&theme=omni&hide_rank=false&PAT_1">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=daameya&count_private=true&show_icons=true&theme=dracula&hide_rank=false&PAT_1">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daameya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph"  />
-</p>
-
-### Packages I created
+## Packages I created
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=daameya&repo=Sentinel-2-Satellite-Image-Classification)](https://github.com/daameya/Sentinel-2-Satellite-Image-Classification)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=daameya&repo=Gen-AI-Medical-Chatbot)](https://github.com/daameya/Gen-AI-Medical-Chatbot)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=daameya&repo=Geospatial-Data-Validator)](https://github.com/daameya/Geospatial-Data-Validator)
