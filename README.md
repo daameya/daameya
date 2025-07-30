@@ -22,7 +22,7 @@ Data Scientist and Engineer with experience in designing and optimizing insuranc
   - :office: [LinkedIn](https://www.linkedin.com/in/ameya-damle/)
   - :speech_balloon: [Twitter](https://x.com/ameya98)
 - 📫 Learn more about me on:
-  - :pencil2: [Portfolio](https://kaleidoscopic-bublanina-4d3622.netlify.app/)
+  - :pencil2: [Portfolio](https://ameyadamle.netlify.app/)
   - :bulb: [Medium](https://medium.com/@1998ameya)
 
 ## 📊 GitHub Stats:
