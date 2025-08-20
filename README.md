@@ -32,9 +32,9 @@ Data Scientist and Engineer with experience in designing and optimizing insuranc
 </p>
 
 ## Packages I created
-[![Readme Card](https://github-readme-stats-sigma-six.vercel.app/api/pin/?username=daameya&repo=Sentinel-2-Satellite-Image-Classification)](https://github.com/daameya/Sentinel-2-Satellite-Image-Classification)
-[![Readme Card](https://github-readme-stats-sigma-six.vercel.app/api/pin/?username=daameya&repo=Mistral-Medical-Chatbot-Mistral-Small-3.2-24B)](https://github.com/daameya/Mistral-Medical-Chatbot-Mistral-Small-3.2-24B)
-[![Readme Card](https://github-readme-stats-sigma-six.vercel.app/api/pin/?username=daameya&repo=https://github.com/daameya/E-commerce-Book-Recommender-System)](https://github.com/daameya/E-commerce-Book-Recommender-System)
-[![Readme Card](https://github-readme-stats-sigma-six.vercel.app/api/pin/?username=daameya&repo=Geospatial-Data-Validator)](https://github.com/daameya/Geospatial-Data-Validator)
-[![Readme Card](https://github-readme-stats-sigma-six.vercel.app/api/pin/?username=daameya&repo=Traffic-Monitoring-using-IoT-Data)](https://github.com/daameya/Traffic-Monitoring-using-IoT-Data)
-[![Readme Card](https://github-readme-stats-sigma-six.vercel.app/api/pin/?username=daameya&repo=Realtime-Voting-System)](https://github.com/daameya/Realtime-Voting-System)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=daameya&repo=Sentinel-2-Satellite-Image-Classification)](https://github.com/daameya/Sentinel-2-Satellite-Image-Classification)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=daameya&repo=Mistral-Medical-Chatbot-Mistral-Small-3.2-24B)](https://github.com/daameya/Mistral-Medical-Chatbot-Mistral-Small-3.2-24B)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=daameya&repo=E-commerce-Book-Recommender-System)](https://github.com/daameya/E-commerce-Book-Recommender-System)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=daameya&repo=Geospatial-Data-Validator)](https://github.com/daameya/Geospatial-Data-Validator)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=daameya&repo=Traffic-Monitoring-using-IoT-Data)](https://github.com/daameya/Traffic-Monitoring-using-IoT-Data)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=daameya&repo=Realtime-Voting-System)](https://github.com/daameya/Realtime-Voting-System)
