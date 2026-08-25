@@ -33,30 +33,19 @@ pricing models, developed risk KPIs, and predicted claims outcomes. Adept in Pyt
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daameya&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
+![](https://github-readme-stats.shion.dev/api?username=daameya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=daameya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=daameya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daameya&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=daameya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daameya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=daameya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=daameya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-<div align="center">
-  
-**"Code is like humor. When you have to explain it, it's bad." - Cory House**
-
-</div>
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ⭐️ **If you find my work interesting, feel free to star my repositories and let's collaborate on something amazing!**
