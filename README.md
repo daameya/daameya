@@ -45,7 +45,7 @@ pricing models, developed risk KPIs, and predicted claims outcomes. Adept in Pyt
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mandeepsingh2007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=daameya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
