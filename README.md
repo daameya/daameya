@@ -44,8 +44,9 @@ pricing models, developed risk KPIs, and predicted claims outcomes. Adept in Pyt
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=daameya&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mandeepsingh2007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ⭐️ **If you find my work interesting, feel free to star my repositories and let's collaborate on something amazing!**
