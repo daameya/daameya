@@ -8,15 +8,21 @@
   <img src="Ameya_Damle.png" width=100% >
 </p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;AI+Enineer+%7C+Statistician;Building+the+Future+with+Code!" alt="Typing SVG" />
+</div>
+
 ## 😊 About Me
 
-[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://drive.google.com/file/d/1JZcuPcowomJqRLbwUKBxOK74BA8jp0td/view?usp=drive_link) [![Cover Letter](https://img.shields.io/badge/Cover%20Letter-Download-brightgreen)](https://drive.google.com/file/d/1hQCan1x7viM7lcOF3nvxYiN-s2A2904h/view?usp=drive_link) <img align="right" height="150" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=790b7611zi4yjtebbvah44t6kp24d26ewwr2su6zgclmjerd&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://drive.google.com/file/d/1TLHUYsST-GzP5bRFb01xGclrpl9929LX/view?usp=sharing) [![Cover Letter](https://img.shields.io/badge/Cover%20Letter-Download-brightgreen)](https://docs.google.com/document/d/1b9J2skKUlzlEPSjqPRy-hGrXGgANyLeLsFKss6qjW-4/edit?usp=sharing)
 
 📖 Bachelor’s degree in Statistics
 
 📊 Master’s in Data Science and Advanced Computing
 
-Data Scientist and Engineer with experience in designing and optimizing insurance data science projects, like ratemaking using GLM, neural network for modelling claim frequency and severity, pricing insurance products using telematics data, geospatial data pipelines, spatial analytics, and enterprise-level data solutions. Proven ability to integrate geospatial intelligence into insurance risk modelling, catastrophe analysis, and exposure assessment. Adept in Python, R, QGIS, SAS and cloud computing, delivering efficient and scalable data science solutions. Passionate about leveraging spatial data for risk mitigation, pricing optimization, and strategic decision-making in the insurance industry.
+Data scientist with experience in delivering data solutions in the insurance domain, like fraud detection, telematics data science, 
+motor/home pricing portfolio management, customer segmentation based on vertical business channels, engineered rating factors for 
+pricing models, developed risk KPIs, and predicted claims outcomes. Adept in Python, SQL, R, SAS, Excel, and predictive modeling.
 
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/ameya-damle/)
@@ -27,9 +33,28 @@ Data Scientist and Engineer with experience in designing and optimizing insuranc
 
 ## 📊 GitHub Stats:
 
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=daameya&count_private=true&show_icons=true&theme=dracula&hide_rank=false&PAT_1">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daameya&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daameya&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daameya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daameya&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daameya&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</div>
+
 
 ## Packages I created
 
