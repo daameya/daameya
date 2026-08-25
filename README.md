@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;AI+Enineer+%7C+Statistician;Building+the+Future+with+Code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;AI+Engineer+%7C+Statistician;Building+the+Future+with+Code!" alt="Typing SVG" />
 </div>
 
 ## 😊 About Me
@@ -45,16 +45,21 @@ pricing models, developed risk KPIs, and predicted claims outcomes. Adept in Pyt
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daameya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
+---
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daameya&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=daameya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daameya&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  
+**"Code is like humor. When you have to explain it, it's bad." - Cory House**
+
 </div>
 
+---
+
+⭐️ **If you find my work interesting, feel free to star my repositories and let's collaborate on something amazing!**
 
 ## Packages I created
 
