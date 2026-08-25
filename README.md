@@ -60,12 +60,3 @@ pricing models, developed risk KPIs, and predicted claims outcomes. Adept in Pyt
 ---
 
 ⭐️ **If you find my work interesting, feel free to star my repositories and let's collaborate on something amazing!**
-
-## Packages I created
-
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=daameya&repo=TravelMate)](https://github.com/daameya/TravelMate)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=daameya&repo=Mistral-Medical-Chatbot-Mistral-Small-3.2-24B)](https://github.com/daameya/Mistral-Medical-Chatbot-Mistral-Small-3.2-24B)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=daameya&repo=OptimaPrice)](https://github.com/daameya/OptimaPrice)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=daameya&repo=Mistral-AI-Web-Search-Agent)](https://github.com/daameya/Mistral-AI-Web-Search-Agent)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=daameya&repo=AI-Powered-Jobs-Recommendation-Webscraper)](https://github.com/daameya/AI-Powered-Jobs-Recommendation-Webscraper)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=daameya&repo=Sentinel-2-Satellite-Image-Classification)](https://github.com/daameya/Sentinel-2-Satellite-Image-Classification)
